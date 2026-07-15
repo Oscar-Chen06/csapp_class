@@ -29,7 +29,7 @@
               "state": {
                 "file": "context/chapter 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "chapter 1"
