@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总体.md",
+                "file": "overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总体"
+              "title": "overview"
+            }
+          },
+          {
+            "id": "a400ceff7f91b828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "context/chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter 1"
+            }
+          },
+          {
+            "id": "e0547d6c9d6ff013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -181,11 +210,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "860ce660d40278ba",
+  "active": "0559b8a30b73b046",
   "lastOpenFiles": [
-    "README.md",
-    "总体.md",
     "未命名",
+    "overview.md",
+    "README.md",
+    "未命名.md",
+    "context/chapter 1.md",
+    "images",
+    "context",
     "新建 文本文档.txt",
     "新建文件夹"
   ]
