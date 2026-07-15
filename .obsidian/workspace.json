@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "context/chapter 1.md",
+                "file": "context/chapter_1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "chapter 1"
+              "title": "chapter_1"
             }
           }
         ],
@@ -209,7 +209,7 @@
   "active": "a400ceff7f91b828",
   "lastOpenFiles": [
     "images/1-4.png",
-    "context/chapter 1.md",
+    "context/chapter_1.md",
     "未命名.md",
     "test",
     "images/1-3.png",
