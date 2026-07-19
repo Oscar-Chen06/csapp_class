@@ -43,7 +43,7 @@
               "state": {
                 "file": "context/chapter_1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "chapter_1"
@@ -222,8 +222,10 @@
   },
   "active": "783eb4bb379cf7e4",
   "lastOpenFiles": [
-    "images/1-5.png",
+    "images/1-7.png",
+    "images/1-6.png",
     "context/chapter_1.md",
+    "images/1-5.png",
     "questions/未命名.md",
     "questions",
     "images/1-4.png",
