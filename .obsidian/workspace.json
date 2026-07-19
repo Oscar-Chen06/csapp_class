@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -222,10 +222,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "783eb4bb379cf7e4",
+  "active": "d60b9a35cb5dda65",
   "lastOpenFiles": [
-    "images/ch1/1-11.png",
+    "images/ch1/1-13.png",
     "context/chapter_1.md",
+    "进程.md",
+    "images/ch1/1-11.png",
     "images/ch1/1-9.png",
     "images/ch1",
     "overview.md",
@@ -240,7 +242,6 @@
     "images/ch1/1-3.png",
     "README.md",
     "images/1.3.png",
-    "images/50c5698893028 images 71d94dc8da3c83a7ecb.png",
     "images",
     "context",
     "新建 文本文档.txt",
