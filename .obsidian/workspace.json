@@ -43,7 +43,7 @@
               "state": {
                 "file": "context/chapter_1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "chapter_1"
