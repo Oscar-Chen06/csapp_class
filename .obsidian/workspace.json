@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "context/chapter_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "chapter_1 的反向链接列表"
             }
           },
           {
@@ -141,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "context/chapter_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "chapter_1 的出链列表"
             }
           },
           {
@@ -202,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,9 +224,10 @@
   },
   "active": "783eb4bb379cf7e4",
   "lastOpenFiles": [
+    "images/ch1/1-11.png",
+    "context/chapter_1.md",
     "images/ch1/1-9.png",
     "images/ch1",
-    "context/chapter_1.md",
     "overview.md",
     "questions/QA.md",
     "images/ch1/1-8.png",
